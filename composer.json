@@ -4,7 +4,7 @@
     "description": "Filter out draft_by_admin negotiable quotes from the Hyvä My Quotes list",
     "type": "magento2-module",
     "require": {
-        "php": "~8.3.0||~8.4.0",
+        "php": "^8.3",
         "magento/framework": "103.0.*",
         "hyva-themes/magento2-ee-magento-negotiable-quote": "^1.0"
     },
